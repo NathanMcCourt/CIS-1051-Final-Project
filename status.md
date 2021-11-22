@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Nathan McCourt
 
 #### Your section leader's name
 
-TODO
+Professor Rosen
 
 #### Project title
 
-TODO
+Highest-Projected Fantasy Football Lineup
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have done research on how to obtain data from a website, like ESPN, and came up with steps I must implement once I am able to import the data I need.
 
 #### What have you not done for your project yet?
 
-TODO
+I have not been able to get to the next steps after I gather the necessary data from the website because this is my first attempt at web scraping.
 
 #### What problems, if any, have you encountered?
 
-TODO
+I have not encountered any problems yet with my code, but I need to put in more time into the project and progress further because I am still in the process of researching and learning new techniques.
